@@ -1,4 +1,4 @@
-# Halo semua! 
+# Welcome! 
 
 Perkenalkan nama saya **Muhamad Gatot**
 
