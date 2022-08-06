@@ -1,12 +1,12 @@
 # Welcome! 
 
-Perkenalkan nama saya **Muhamad Gatot**
+I am **Muhamad Gatot**
 
-Saya seorang **Junior Developer** yang masih belajar di [Dicoding](https://www.dicoding.com/)
+A **Junior Developer** And still Learning at [Dicoding](https://www.dicoding.com/)
 
-Saya bertanggung jawab pada kualitas diri saya di masa depan
+Will bring my future all about **coding**
 
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/gatot-bima/)ku ya.
+If you intrest to me, you can check my [Linkedin](https://www.linkedin.com/in/gatot-bima/)this one.
 
 
 <p align="left">
