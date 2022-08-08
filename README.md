@@ -6,7 +6,7 @@ A **Junior Developer** And still Learning at [Dicoding](https://www.dicoding.com
 
 Will bring my future all about **coding**
 
-If you intrest to me, you can check my [Linkedin](https://www.linkedin.com/in/gatot-bima/)this one.
+If you intrest to me, you can check my [Linkedin](https://www.linkedin.com/in/gatot-bima-7b08491aa/) this one.
 
 
 <p align="left">
