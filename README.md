@@ -2,7 +2,7 @@
 
 I am **Muhamad Gatot**
 
-A **Junior Developer** And still Learning at [Dicoding](https://www.dicoding.com/)
+A **Junior Developer** who learn new things everyday
 
 Will bring my future all about **coding**
 
