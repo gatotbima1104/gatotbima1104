@@ -2,10 +2,6 @@
 
 I am **Muhamad Gatot**
 
-A **Junior Developer** who learn with Tech Stack (React, Vue, Nest)
-
-Will bring my future all about **coding**
-
 If you intrest to me, you can check my [Linkedin](https://www.linkedin.com/in/muhamad-gatot-s-7b08491aa/) this one.
 
 
